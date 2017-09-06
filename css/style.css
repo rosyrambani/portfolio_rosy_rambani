@@ -29,12 +29,16 @@ h6 {
     margin-bottom: 10px;
     margin-left: 30px;
 }
+h3{
+    padding-left: 45px;
+}
 
 p {
     font-size: 1.25em;
     line-height: 1.6;
     color: #000;
-    padding: 30px;
+    padding: 10px;
+    padding-left: 50px;
 }
 
 hr {
